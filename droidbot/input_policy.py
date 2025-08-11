@@ -13,6 +13,8 @@ from .utg import UTG
 import time
 from .input_event import ScrollEvent
 # from memory.memory_builder import Memory
+import os, sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import tools
 import pdb
 import os
