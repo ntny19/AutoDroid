@@ -1,0 +1,50 @@
+{
+  "tag": "2025-08-09_231655",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": true,
+      "resource_id": null,
+      "visible": true,
+      "enabled": true,
+      "clickable": true,
+      "is_password": false,
+      "checked": false,
+      "content_description": "More options",
+      "focused": false,
+      "class": "android.widget.ImageView",
+      "children": [],
+      "child_count": 0,
+      "package": "com.simplemobiletools.applauncher",
+      "text": null,
+      "bounds": [
+        [
+          914,
+          88
+        ],
+        [
+          1025,
+          220
+        ]
+      ],
+      "editable": false,
+      "focusable": true,
+      "parent": 12,
+      "temp_id": 15,
+      "size": "111*132",
+      "signature": "[class]android.widget.ImageView[resource_id][text][enabled,,]",
+      "view_str": "cd32a3c1fa7f0424cb193fbe0c5e5708",
+      "content_free_signature": "[class]android.widget.ImageView[resource_id]"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218",
+  "stop_state": "ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c",
+  "event_str": "TouchEvent(state=150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218, view=cd32a3c1fa7f0424cb193fbe0c5e5708(MainActivity/ImageView-))"
+}

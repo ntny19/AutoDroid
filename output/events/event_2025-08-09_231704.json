@@ -1,0 +1,50 @@
+{
+  "tag": "2025-08-09_231704",
+  "event": {
+    "event_type": "click",
+    "log_lines": null,
+    "prompt": null,
+    "view": {
+      "checkable": false,
+      "selected": false,
+      "scrollable": false,
+      "long_clickable": false,
+      "resource_id": "com.simplemobiletools.applauncher:id/title",
+      "visible": true,
+      "enabled": true,
+      "clickable": false,
+      "is_password": false,
+      "checked": false,
+      "content_description": null,
+      "focused": false,
+      "class": "android.widget.TextView",
+      "children": [],
+      "child_count": 0,
+      "package": "com.simplemobiletools.applauncher",
+      "text": "Settings",
+      "bounds": [
+        [
+          519,
+          257
+        ],
+        [
+          970,
+          316
+        ]
+      ],
+      "editable": false,
+      "focusable": false,
+      "parent": 9,
+      "temp_id": 10,
+      "size": "451*59",
+      "signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.applauncher:id/title[text]Settings[enabled,,]",
+      "view_str": "aeaa4360f2c6cc25e6e151816f23e18a",
+      "content_free_signature": "[class]android.widget.TextView[resource_id]com.simplemobiletools.applauncher:id/title"
+    },
+    "x": null,
+    "y": null
+  },
+  "start_state": "ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c",
+  "stop_state": "c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7",
+  "event_str": "TouchEvent(state=ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c, view=aeaa4360f2c6cc25e6e151816f23e18a(MainActivity/TextView-Settings))"
+}

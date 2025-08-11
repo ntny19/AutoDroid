@@ -1,0 +1,147 @@
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        fe857ff com.simplemobiletools.applauncher/.activities.SplashActivity.Grey_black filter 9ac8567
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        ef759cc com.simplemobiletools.applauncher/.activities.SplashActivity.Blue_grey filter 3c45f14
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        c759415 com.simplemobiletools.applauncher/.activities.SplashActivity.Brown filter d0cc3bd
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        e6ca32a com.simplemobiletools.applauncher/.activities.SplashActivity.Deep_orange filter 3411db2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        a74751b com.simplemobiletools.applauncher/.activities.SplashActivity.Orange filter 3721103
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        d2646b8 com.simplemobiletools.applauncher/.activities.SplashActivity.Amber filter 4125880
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        d285c91 com.simplemobiletools.applauncher/.activities.SplashActivity.Yellow filter 5c6deb9
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        f89c7f6 com.simplemobiletools.applauncher/.activities.SplashActivity.Lime filter 99f62fe
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        6db47f7 com.simplemobiletools.applauncher/.activities.SplashActivity.Light_green filter 77aba5f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        b551664 com.simplemobiletools.applauncher/.activities.SplashActivity.Green filter 8847cac
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        56530cd com.simplemobiletools.applauncher/.activities.SplashActivity.Teal filter 76dad75
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        c826d82 com.simplemobiletools.applauncher/.activities.SplashActivity.Cyan filter 20ab10a
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        5726c93 com.simplemobiletools.applauncher/.activities.SplashActivity.Light_blue filter 83a9d7b
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        b7f34d0 com.simplemobiletools.applauncher/.activities.SplashActivity.Blue filter 512b798
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        210cc9 com.simplemobiletools.applauncher/.activities.SplashActivity.Indigo filter 478abf1
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        c6ddfce com.simplemobiletools.applauncher/.activities.SplashActivity.Deep_purple filter 92ad3d6
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        c4d3eef com.simplemobiletools.applauncher/.activities.SplashActivity.Purple filter 14b9657
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        1eacdfc com.simplemobiletools.applauncher/.activities.SplashActivity.Pink filter 347b544
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+        8a4ac85 com.simplemobiletools.applauncher/.activities.SplashActivity.Red filter 55b162d
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+          AutoVerify=false
+      android.intent.action.APPLICATION_PREFERENCES:
+        e8c2ada com.simplemobiletools.applauncher/.activities.SettingsActivity filter c585762
+          Action: "android.intent.action.APPLICATION_PREFERENCES"
+          Category: "android.intent.category.DEFAULT"
+          AutoVerify=false
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      com.simplemobiletools.commons.SHARED_THEME_ACTIVATED:
+        558db0b com.simplemobiletools.applauncher/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter 56cd526
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+          AutoVerify=false
+      com.simplemobiletools.commons.SHARED_THEME_UPDATED:
+        558db0b com.simplemobiletools.applauncher/com.simplemobiletools.commons.receivers.SharedThemeReceiver filter 56cd526
+          Action: "com.simplemobiletools.commons.SHARED_THEME_ACTIVATED"
+          Action: "com.simplemobiletools.commons.SHARED_THEME_UPDATED"
+          AutoVerify=false
+
+Registered ContentProviders:
+  com.simplemobiletools.applauncher/androidx.startup.InitializationProvider:
+    Provider{f14cde8 com.simplemobiletools.applauncher/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.simplemobiletools.applauncher.androidx-startup]:
+    Provider{f14cde8 com.simplemobiletools.applauncher/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{c088c01 com.simplemobiletools.applauncher}
+
+Key Set Manager:
+  [com.simplemobiletools.applauncher]
+      Signing KeySets: 17
+
+Packages:
+  Package [com.simplemobiletools.applauncher] (4121aa6):
+    userId=10079
+    pkg=Package{2381ce7 com.simplemobiletools.applauncher}
+    codePath=/data/app/com.simplemobiletools.applauncher-1
+    resourcePath=/data/app/com.simplemobiletools.applauncher-1
+    legacyNativeLibraryDir=/data/app/com.simplemobiletools.applauncher-1/lib
+    primaryCpuAbi=null
+    secondaryCpuAbi=null
+    versionCode=51 minSdk=23 targetSdk=33
+    versionName=5.11.2
+    splits=[base]
+    apkSigningVersion=2
+    applicationInfo=ApplicationInfo{c088c01 com.simplemobiletools.applauncher}
+    flags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PARTIALLY_DIRECT_BOOT_AWARE RESIZEABLE_ACTIVITIES ]
+    dataDir=/data/user/0/com.simplemobiletools.applauncher
+    supportsScreens=[small, medium, large, xlarge, resizeable, anyDensity]
+    timeStamp=2025-08-09 23:13:31
+    firstInstallTime=2025-08-09 23:13:33
+    lastUpdateTime=2025-08-09 23:13:33
+    signatures=PackageSignatures{c5ce094 [28107f7f]}
+    installPermissionsFixed=true installStatus=1
+    pkgFlags=[ HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    requested permissions:
+      android.permission.QUERY_ALL_PACKAGES
+    User 0: ceDataInode=115901 installed=true hidden=false suspended=false stopped=false notLaunched=false enabled=0
+      runtime permissions:
+
+
+Dexopt state:
+  [com.simplemobiletools.applauncher]
+    Instruction Set: x86
+      path: /data/app/com.simplemobiletools.applauncher-1/base.apk
+      status: /data/app/com.simplemobiletools.applauncher-1/oat/x86/base.odex [compilation_filter=interpret-only, status
+      =kOatUpToDate]

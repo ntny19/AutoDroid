@@ -1,0 +1,12 @@
+{
+  "tag": "2025-08-09_231343",
+  "event": {
+    "event_type": "intent",
+    "log_lines": null,
+    "prompt": null,
+    "intent": "am start com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Orange"
+  },
+  "start_state": "0ffdc3daac7f1c9166ef8f56b7c24429b3d7b14992e423bd4f6f583968a40deb",
+  "stop_state": "150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218",
+  "event_str": "IntentEvent(intent='am start com.simplemobiletools.applauncher/com.simplemobiletools.applauncher.activities.SplashActivity.Orange')"
+}

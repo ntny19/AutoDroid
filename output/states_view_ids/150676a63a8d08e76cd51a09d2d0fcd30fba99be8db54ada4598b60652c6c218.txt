@@ -1,0 +1,1 @@
+[['Search', 10], ['Sort by', 13], ['Toggle app name visibility', 14], ['More options', 15], ['No items found.', 19], ['Manage visible app icons', 20]]

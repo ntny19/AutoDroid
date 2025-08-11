@@ -1,0 +1,12 @@
+{
+  "tag": "2025-08-09_231623",
+  "event": {
+    "event_type": "kill_app",
+    "log_lines": null,
+    "prompt": null,
+    "stop_intent": "am force-stop com.simplemobiletools.applauncher"
+  },
+  "start_state": "0ffdc3daac7f1c9166ef8f56b7c24429b3d7b14992e423bd4f6f583968a40deb",
+  "stop_state": "0ffdc3daac7f1c9166ef8f56b7c24429b3d7b14992e423bd4f6f583968a40deb",
+  "event_str": "KillAppEvent()"
+}

@@ -1,0 +1,231 @@
+records:
+- Choice: 0
+  Input: ''
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+- Choice: 6
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+- Choice: 1
+  Input: 'null'
+  State: '<button id=0>Column count</button>
+
+    <button id=1>Settings</button>
+
+    <button id=2>About</button>
+
+    <button id=3>go back</button>'
+  state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <checkbox id=4 checked=True>Close this app at launching a different one</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+- Choice: 1
+  Input: 'null'
+  State: '<button id=0>Column count</button>
+
+    <button id=1>Settings</button>
+
+    <button id=2>About</button>
+
+    <button id=3>go back</button>'
+  state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <checkbox id=4 checked=True>Close this app at launching a different one</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Customize colors</p>
+
+    <button id=1>Theme<br>Dark</button>
+
+    <button id=2>Text color</button>
+
+    <button id=3>Background color</button>
+
+    <button id=4>Primary color</button>
+
+    <button id=5>App icon color</button>
+
+    <button id=6>go back</button>'
+  state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+- Choice: 2
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <checkbox id=4 checked=True>Close this app at launching a different one</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+- Choice: 6
+  Input: 'null'
+  State: '<p id=0>Customize colors</p>
+
+    <button id=1>Theme<br>Dark</button>
+
+    <button id=2>Text color</button>
+
+    <button id=3>Background color</button>
+
+    <button id=4>Primary color</button>
+
+    <button id=5>App icon color</button>
+
+    <button id=6>go back</button>'
+  state_str: 06d12a81a984d165f6107d52300085d901815170a2c6546fc7129a5ff30b88da
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <checkbox id=4 checked=True>Close this app at launching a different one</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+- Choice: 3
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+- Choice: 1
+  Input: 'null'
+  State: '<button id=0>Column count</button>
+
+    <button id=1>Settings</button>
+
+    <button id=2>About</button>
+
+    <button id=3>go back</button>'
+  state_str: ca19303f69337e3b0304675f3593b6929a8f5e20f11c851c7caa0c01e2149f4c
+- Choice: 5
+  Input: 'null'
+  State: '<p id=0>Settings</p>
+
+    <p id=1>COLOR CUSTOMIZATION</p>
+
+    <button id=2>Customize colors</button>
+
+    <p id=3>GENERAL</p>
+
+    <checkbox id=4 checked=True>Close this app at launching a different one</checkbox>
+
+    <button id=5>go back</button>'
+  state_str: c1b06bce7e23dd13a3288977fbdd55b3d1962a9bb93432a712321fd371f52bb7
+- Choice: 1
+  Input: 'null'
+  State: '<input id=0>Search</input>
+
+    <button id=1 text=''Sort by''></button>
+
+    <button id=2 text=''Toggle app name visibility''></button>
+
+    <button id=3 text=''More options''></button>
+
+    <p id=4>No items found.</p>
+
+    <button id=5>Manage visible app icons</button>
+
+    <button id=6>go back</button>'
+  state_str: 150676a63a8d08e76cd51a09d2d0fcd30fba99be8db54ada4598b60652c6c218
+step_num: 16
+task_name: Open DCIM folder in gallery app

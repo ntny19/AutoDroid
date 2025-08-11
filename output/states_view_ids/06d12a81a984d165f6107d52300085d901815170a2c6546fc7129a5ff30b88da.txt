@@ -1,0 +1,1 @@
+[['Customize colors', 8], ['Theme', 13], ['Dark', 14], ['Text color', 16], ['Background color', 19], ['Primary color', 22], ['App icon color', 25]]

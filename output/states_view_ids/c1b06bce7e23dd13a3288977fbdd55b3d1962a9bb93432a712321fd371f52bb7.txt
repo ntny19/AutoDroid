@@ -1,0 +1,1 @@
+[['Settings', 8], ['COLOR CUSTOMIZATION', 12], ['Customize colors', 14], ['GENERAL', 16]]
